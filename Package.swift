@@ -100,6 +100,7 @@ let package = Package(
         "table/",
         "third_party/fiat/",
         "include/",
+        "err_data.c",
       ],
       publicHeadersPath: "include",
       cSettings: [
